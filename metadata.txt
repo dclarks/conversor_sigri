@@ -1,0 +1,14 @@
+[general]
+name=Conversor UTM para SIG-RI
+qgisMinimumVersion=3.0
+description=Converte arquivos de coordenadas UTM para o formato de texto Geográfico exigido pelo SIG-RI (lon,lat;) sem ponto e vírgula na última linha.
+version=1.0.0
+author=Thiago Norio Santos Igarashi
+email=seu_email@exemplo.com
+
+changelog=Versão inicial estável compatível com QGIS 3.4+ LTR, exportação de coordenadas utm para Longitude Latitude decimal exigida para o mapa do Registro de Imóveis do Brasil (SIG-RI).
+
+experimental=False
+deprecated=False
+tags=topografia, agrimensura, utm, sig-ri, sirgas2000, sigri, cartório de registro de imóveis,
+category=Plugins
